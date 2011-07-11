@@ -1,0 +1,49 @@
+version 0.4.3 :
+
+* Added translation with appropriate textdomain for most units.
+
+* New faction : Zomzink's horde. Base on default undeads with some tweaking (majority of skeletons units, replacement of walking corpse by the swimmer variation).
+
+version 0.4.2 :
+
+* New ability : Brutal, given to orcish plunderer smashas, witch give them always 50% chance to hit on offense.
+
+* New units : Arctic wolf and Battle wolf, filling scout's role for Northmen.
+
+* Standardization of attacks icons for Northmen.
+
+* Added descriptions for most of the Orcish plunderers units.
+
+version 0.4.1 :
+
+* Up of the Lurker unit (Northmen) : more HP, lower cost.
+
+* Northmen's random trait Fearless is replace by Healthy. Leader, Lord and Knig (fighter line) receive the Fearless trait.
+
+* Poisoner trait become available for Orcish plunderers. As a result, Orcish Assassin line lose the Poison weapon special ability.
+
+version 0.4 : beta
+
+* Some tuning with units for balance.
+
+* Release of orc plunderers, wich need more sprites for units.
+
+version 0.3 : beta
+
+* New ability : ice warden, given to north human mages, witch raise blade, pierce and cold resistances of adjacent allies. Replace the cure ability.
+
+* Few balance with stats of the units.
+
+version 0.2 : beta
+
+* Release of the loyalists settlers, only placeholder stripes.
+
+* Add a map folder, designed to give you a geographic point of view of the north.
+
+* First map added : 2p - Fjord.
+
+version 0.1 : beta
+
+* First release on the 14/06/2011.
+
+* North men is the first released faction, let's playtest it !

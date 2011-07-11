@@ -1,0 +1,9 @@
+############# Credits to artits whom I "borrowed" work #############
+
+# Lots of mainline sprites are used for almost all units, thanks to mainline artists !
+
+# Boar mounts and sounds of Orcish plunderers came from Brent campaign, by melinath.
+
+# Solarians are mainly made from new Loyalist frames, by Zerovirus and Azt.
+
+# Arctic wolf and Battle wolf of Northmen came from Archaic era, by doofus-01
